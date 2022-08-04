@@ -1,0 +1,41 @@
+header{
+    background-color:#802A00 ;
+    align-items: center;
+    
+}
+
+h1{
+    align-items: center;
+    
+    color:burlywood;
+}
+h3{
+    color: burlywood;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+
+body {
+
+    vertical-align: middle;
+    text-align: center;
+    color: darkslateblue;
+    
+}
+
+button{
+    background-color: rebeccapurple;
+     color: white;
+     width: 250px;
+     height: 30px;
+      border-radius: 8px;
+}
+
+
+
+input[type=text] {
+    border: none;
+    border-bottom: 2px solid rebeccapurple;
+  }
